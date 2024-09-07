@@ -1,14 +1,11 @@
 local placeId = game.PlaceId
 
 local scriptUrls = {
-    [15154513235] = "https://raw.githubusercontent.com/omega24119/Final-key-system/main/Final%20key%20system%20kamehameha",  
+    [15154513235] = "https://raw.githubusercontent.com/EtherbyteHub/kamehameha-simulator-key/main/kamehameha%20simulator%20key",  
   
-[3101667897] = "https://raw.githubusercontent.com/Takatka/Key/main/Speed%20of%20legend",
-
-    [14265515277] = "https://raw.githubusercontent.com/omega24119/running-simulator-update/main/upd%20running%20hub%20added%20rebirth",
-    [16480898254] = "https://raw.githubusercontent.com/omega24119/key-eat/main/key%20eat",
-[16981421605] = "https://raw.githubusercontent.com/omega24119/Reborn-as-a-swordsman-key-obfuscated-main/main/Reborn%20as%20a%20swordsman%20obfuscate%20main%20key",
-[3956818381] = "https://raw.githubusercontent.com/Takatka/Ninja-legends-obfuscated-new-key-system-main/main/Main%20obfuscated%20key%20ninja%20legends"
+[3101667897] = "https://raw.githubusercontent.com/EtherbyteHub/legend-of-spped-key/main/leged%20of%20speed%20key",
+[16981421605] = "https://raw.githubusercontent.com/EtherbyteHub/reborn-as-a-swords-man-key/main/reborn%20as%20a%20swords%20man%20key",
+[3956818381] = "https://raw.githubusercontent.com/EtherbyteHub/ninja-legend-key/main/ninja%20legend%20key"
 }
 
 local function loadScript(url)
